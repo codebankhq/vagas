@@ -34,7 +34,7 @@ Boa sorte!
 
 <hr>
 <p align="center">
-    <a href="https://github.com/AeogiApp" style="text-decoration:none; margin-right:2rem;">
-    <img src="https://s3.amazonaws.com/assets.prod.codebank.com.br/brand_full_regular_small.png" width="194px" height="25px" />
-  </a>
+    <a href="https://github.com/codebankhq" style="text-decoration:none; margin-right:2rem;">
+        <img src="https://s3.amazonaws.com/assets.prod.codebank.com.br/brand_full_regular_small.png" width="194px" height="25px" />
+    </a>
 </p>
